@@ -1,3 +1,3 @@
 # dehub
 
-Resource-booking system for booking reasources like furniture.
+For booking rooms to use as venues for different events/activities.
